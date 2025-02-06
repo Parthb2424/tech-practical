@@ -34,7 +34,7 @@ npm install && npm run dev
 
 3.Set Up Environment Variables
 Copy the .env.example file to .env
-database credentials
+create the Database with "techpractical" name
 
 4.Run Migrations
 php artisan migrate
